@@ -1,4 +1,4 @@
-                                          JavaScript 
+---------------------------------------------JavaScript-------------------------------------------------------
 
 Interactive RPG Game – Developed a browser-based RPG game using JavaScript, HTML, and CSS. Implemented
 dynamic gameplay features including combat mechanics, an inventory system, and multiple in-game locations.
